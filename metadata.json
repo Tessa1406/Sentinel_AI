@@ -1,0 +1,6 @@
+{
+  "name": "SENTINEL_AI",
+  "description": "Enterprise cybersecurity portal and IoT fleet monitoring hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
